@@ -1,0 +1,23 @@
+*{
+    font-family:Inter;
+    color: black;
+    font-size: 22px;
+}
+section{
+    margin: 20px;
+}
+h1{
+    font-weight: 700;
+    font-size: 34px;
+    text-decoration: underline;
+}
+li{
+    margin: 10px 0;
+}
+span{
+    font-style: italic;
+    font-weight: bold;
+}
+p{
+    font-size: 21px;
+}
